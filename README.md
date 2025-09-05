@@ -125,7 +125,7 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 
 [**Smart farming**](https://thingsboard.io/use-cases/smart-farming/)
 
-[![Smart farming](https://github.com/user-attachments/assets/8fe84ad6-6ea4-4cb1-bc31-6cd5c20c357b "Smart farming")](https://thingsboard.io/use-cases/smart-farming/)
+[![Smart farming](https://github.com/user-attachments/assets/06f075d2-f981-4929-8f27-225e2975d9fb)](https://thingsboard.io/use-cases/smart-farming/)
 
 [**Smart metering**](https://thingsboard.io/smart-metering/)
 
@@ -136,6 +136,7 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 [**Check more of our use cases 🡪**](https://thingsboard.io/iot-use-cases/)
 
 </div>
+
 
 ## 🫶 Support
 
