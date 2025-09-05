@@ -113,15 +113,15 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 
 [**Smart energy**](https://thingsboard.io/use-cases/smart-energy/)
 
-[![Smart energy](https://github.com/user-attachments/assets/7952d0f1-2ba4-4989-bfc9-75b40de6ea3f "Smart energy")](https://thingsboard.io/use-cases/smart-energy/)
+[![Smart energy](https://github.com/user-attachments/assets/cca8b74e-bf60-477c-aca6-45eb8b8bb05a)](https://thingsboard.io/use-cases/smart-energy/)
 
 [**SCADA swimming pool**](https://thingsboard.io/use-cases/scada/)
 
-[![SCADA Swimming pool](https://github.com/user-attachments/assets/b357c129-ea72-4b64-9dfe-ac25011603b6 "SCADA Swimming pool")](https://thingsboard.io/use-cases/scada/)
+[![SCADA Swimming pool](https://github.com/user-attachments/assets/db80fe7f-473f-4419-bbe6-451f7fea8154)](https://thingsboard.io/use-cases/scada/)
 
 [**Fleet tracking**](https://thingsboard.io/use-cases/fleet-tracking/)
 
-[![Fleet tracking](https://github.com/user-attachments/assets/80b63841-40c9-4db9-bec2-6a400dc6e58d "Fleet tracking")](https://thingsboard.io/use-cases/fleet-tracking/)
+[![Fleet tracking](https://github.com/user-attachments/assets/3bc0249a-7dbc-4ed0-83d4-e426a6663052)](https://thingsboard.io/use-cases/fleet-tracking/)
 
 [**Smart farming**](https://thingsboard.io/use-cases/smart-farming/)
 
@@ -129,13 +129,15 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 
 [**Smart metering**](https://thingsboard.io/smart-metering/)
 
-[![Smart metering](https://github.com/user-attachments/assets/564e5ed0-afad-452c-a16c-6270b468ebdc "Smart metering")](https://thingsboard.io/smart-metering/)
+[![Smart metering](https://github.com/user-attachments/assets/e4d84ad3-d9f0-4359-8b34-e264e8a787a9)](https://thingsboard.io/smart-metering/)
 
 <div align="center">
 
 [**Check more of our use cases 🡪**](https://thingsboard.io/iot-use-cases/)
 
 </div>
+
+
 
 
 ## 🫶 Support
