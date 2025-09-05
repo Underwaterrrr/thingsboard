@@ -99,7 +99,9 @@ Check out our [Getting Started guide](https://thingsboard.io/docs/getting-starte
 
 ThingsBoard allows you to create complex [Rule Chains](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/) to process data from your devices and match your application specific use cases.
 
-[![IoT Rule Engine](https://github.com/user-attachments/assets/ccc048a8-5aa3-44dc-abd4-c20d1d833102 "IoT Rule Engine")](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
+[![IoT Rule Engine](https://github.com/user-attachments/assets/5c326ea3-ac2b-48bb-8e47-1d07f39ddc23)](https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/)
+
+
 
 <div align="center">
 
@@ -136,6 +138,7 @@ ThingsBoard is a scalable, user-friendly, and device-agnostic IoT platform that 
 [**Check more of our use cases 🡪**](https://thingsboard.io/iot-use-cases/)
 
 </div>
+
 
 
 
